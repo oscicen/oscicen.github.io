@@ -1,0 +1,24 @@
+{
+    "name": "oscicen.github.io",
+    "version": "1.0.0",
+    "description": "oscicen online portfolio",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/oscicen/oscicen.github.io.git"
+    },
+    "keywords": [
+        "online",
+        "prortfolio",
+        "oscicen"
+    ],
+    "author": "Lusca \"\"\u001b[ <oscicen>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/oscicen/oscicen.github.io/issues"
+    },
+    "homepage": "https://github.com/oscicen/oscicen.github.io#readme"
+}
