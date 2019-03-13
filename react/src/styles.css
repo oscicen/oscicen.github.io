@@ -1,0 +1,9 @@
+.answers-response, .answers-commands {
+  text-align: center;
+}
+
+.answers-response > button,
+.answers-commands > button {
+  margin: 10px;
+  padding: 15px 25px;
+}
