@@ -1,2 +1,3 @@
 [CopyrightLicense]:./license.md
-# oscicen online portfolio
+# oscicen | Lusca Andrei
+Hi and welcome to my online hideout. 

@@ -1,24 +1,23 @@
 {
-    "name": "oscicen.github.io",
-    "version": "1.0.0",
-    "description": "oscicen online portfolio",
-    "main": "index.js",
-    "scripts": {
-        "test": "test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/oscicen/oscicen.github.io.git"
-    },
-    "keywords": [
-        "online",
-        "prortfolio",
-        "oscicen"
-    ],
-    "author": "Lusca \"\"\u001b[ <oscicen>",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/oscicen/oscicen.github.io/issues"
-    },
-    "homepage": "https://github.com/oscicen/oscicen.github.io#readme"
+  "name": "oscicen",
+  "version": "1.0.0",
+  "description": "[CopyrightLicense]:./license.md\r # oscicen",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscicen/oscicen.github.io.git"
+  },
+  "author": "Lusca Andrei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscicen/oscicen.github.io/issues"
+  },
+  "homepage": "https://github.com/oscicen/oscicen.github.io#readme"
 }
